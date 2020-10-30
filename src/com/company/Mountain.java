@@ -5,31 +5,15 @@ import java.awt.*;
 
 public class Mountain extends Component{
     private final Image background;
-
-    public Rectangle getMountainRectangle() {
-        return mountainRectangle;
-    }
-
+    public Rectangle getMountainRectangle() { return mountainRectangle; }
     @Override
-    public int getHeight() {
-        return height;
-    }
-
+    public int getHeight() { return height; }
     @Override
-    public int getWidth() {
-        return width;
-    }
-
+    public int getWidth() { return width; }
     @Override
-    public int getX() {
-        return x;
-    }
-
+    public int getX() { return x; }
     @Override
-    public int getY() {
-        return y;
-    }
-
+    public int getY() { return y; }
     private final Rectangle mountainRectangle;
     private final int height=160,width=256,x=950,y=40;
 

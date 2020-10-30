@@ -1,365 +1,65 @@
-Game Score - Time = 9
+Game Score - Time = 7 seconds - Tank Won! 
 Tower Life: 0
 Tank Life: 3
 =====================
 
-Game Score - Time = 20
-Tower Life: 1
-Tank Life: 0
-=====================
-
-Game Score - Time = 4
+Game Score - Time = 2 seconds - Tower Won! 
 Tower Life: 3
 Tank Life: 0
 =====================
 
-Game Score - Time = 3
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 30
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 3
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 5
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 3
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 16
-Tower Life: 0
-Tank Life: 2
-=====================
-
-Game Score - Time = 2
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 12
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 22
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 32
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 42
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 52
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 62
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 2
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 12
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 22
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 7
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 10
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 10 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 30 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 8 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 10 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 6 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 8 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 34 - Tank Won! 
-Tower Life: 0
-Tank Life: 1
-=====================
-
-Game Score - Time = 14 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 27 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 5 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 8 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 3 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 2 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 8 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 30 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 30 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 7 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 10 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 30 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 30 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 30 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 30 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 9 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 10 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 30 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 30 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 10 - Tower Won! 
+Game Score - Time = 11 seconds - Tower Won! 
 Tower Life: 2
 Tank Life: 0
 =====================
 
-Game Score - Time = 10 - Tower Won! 
+Game Score - Time = 2 seconds - Tower Won! 
 Tower Life: 3
 Tank Life: 0
 =====================
 
-Game Score - Time = 19 - Tank Won! 
+Game Score - Time = 27 seconds - Tank Won! 
 Tower Life: 0
 Tank Life: 3
 =====================
 
-Game Score - Time = 10 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 6 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 8 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 6 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 10 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 28 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 15 - Tower Won! 
+Game Score - Time = 16 seconds - Tower Won! 
 Tower Life: 1
 Tank Life: 0
 =====================
 
-Game Score - Time = 10 - Tower Won! 
-Tower Life: 2
-Tank Life: 0
-=====================
-
-Game Score - Time = 20 - Tower Won! 
+Game Score - Time = 2 seconds - Tower Won! 
 Tower Life: 3
 Tank Life: 0
 =====================
 
-Game Score - Time = 15 - Tower Won! 
+Game Score - Time = 18 seconds - Tower Won! 
 Tower Life: 3
 Tank Life: 0
 =====================
 
-Game Score - Time = 24 - Tank Won! 
+Game Score - Time = 2 seconds - Tower Won! 
+Tower Life: 3
+Tank Life: 0
+=====================
+
+Game Score - Time = 19 seconds - Tank Won! 
 Tower Life: 0
 Tank Life: 2
 =====================
 
-Game Score - Time = 6 - Tank Won! 
+Game Score - Time = 2 seconds - Tower Won! 
+Tower Life: 3
+Tank Life: 0
+=====================
+
+Game Score - Time = 16 seconds - Tank Won! 
 Tower Life: 0
 Tank Life: 3
 =====================
 
-Game Score - Time = 60 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 10 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 30 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 30 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 20 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 10 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 10 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
-=====================
-
-Game Score - Time = 15 - Tank Won! 
+Game Score - Time = 5 seconds - Tank Won! 
 Tower Life: 0
 Tank Life: 3
-=====================
-
-Game Score - Time = 11 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 40 - Tank Won! 
-Tower Life: 0
-Tank Life: 3
-=====================
-
-Game Score - Time = 3 - Tower Won! 
-Tower Life: 3
-Tank Life: 0
 =====================
 

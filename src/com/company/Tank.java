@@ -8,6 +8,7 @@ import java.util.Random;
 
 
 public class Tank extends Component implements Runnable{
+    // Variables
     private static int missile_x,missile_y,missile_height=20,missile_width=20;
     private final int height=60,width=100;
     private final Image background, SecondBg,heart,missile;
@@ -15,79 +16,52 @@ public class Tank extends Component implements Runnable{
     private int RotationAngle,Life=3;
     private static int x=1050,y=310;
 
+    // Getters & Setters
     public int getVarX() { return x; }
-
     public static void setVarX(int x) { Tank.x = x; }
-
     public int getVarY() { return y; }
-
     public static void setVarY(int y) { Tank.y = y; }
-
     public Polygon getFrame() { return Frame; }
-
     public void setFrame(Polygon frame) { Frame = frame; }
-
     public Polygon getMissileFrame() {
         return MissileFrame;
     }
-
     public void setMissileFrame(Polygon missileFrame) {
         MissileFrame = missileFrame;
     }
-
     public int getRotationAngle() {
         return RotationAngle;
     }
-
     public void setRotationAngle(int rotationAngle) {
         RotationAngle = rotationAngle;
     }
-
     public int getLife() {
         return Life;
     }
-
     public void setLife(int life) {
         Life = life;
     }
-
-    public static void setX(int x) {
-        Tank.x = x;
-    }
-
-
-    public static void setY(int y) {
-        Tank.y = y;
-    }
-
     public static int getMissile_x() {
         return missile_x;
     }
-
     public static void setMissile_x(int missile_x) {
         Tank.missile_x = missile_x;
     }
-
     public static int getMissile_y() {
         return missile_y;
     }
-
     public static void setMissile_y(int missile_y) {
         Tank.missile_y = missile_y;
     }
-
     public static int getMissile_height() {
         return missile_height;
     }
-
     public static void setMissile_height(int missile_height) {
         Tank.missile_height = missile_height;
     }
-
     public static int getMissile_width() {
         return missile_width;
     }
-
     public static void setMissile_width(int missile_width) {
         Tank.missile_width = missile_width;
     }
@@ -272,43 +246,79 @@ public class Tank extends Component implements Runnable{
 
 
     public void Move(int Move){
+        int temp_x=x,temp_y=y;
         switch (RotationAngle){
             case 0:
                 x+=Move;
+                if(x<0 || y<0 || x>1100 || y>350){
+                    x=temp_x;
+                    y=temp_y;
+                    return;
+                }
                 Frame.translate(Move,0);
                 Fire(Move);
                 break;
             case 45:
                 x+=Move;
                 y+=Move;
+                if(x<0 || y<0 || x>1100 || y>350){
+                    x=temp_x;
+                    y=temp_y;
+                    return;
+                }
                 Frame.translate(Move,Move);
                 Fire(Move);
 
                 break;
             case 90:
                 y += (Move);
+                if(x<0 || y<0 || x>1100 || y>350){
+                    x=temp_x;
+                    y=temp_y;
+                    return;
+                }
                 Frame.translate(0,Move);
                 Fire(Move);
                 break;
             case 135:
                 x+=-Move;
                 y+=Move;
+                if(x<0 || y<0 || x>1100 || y>350){
+                    x=temp_x;
+                    y=temp_y;
+                    return;
+                }
                 Frame.translate(-Move,Move);
                 Fire(Move);
                 break;
             case 180:
                 x+=-Move;
+                if(x<0 || y<0 || x>1100 || y>350){
+                    x=temp_x;
+                    y=temp_y;
+                    return;
+                }
                 Frame.translate(-Move,0);
                 Fire(Move);
                 break;
             case 225:
                 x+=-Move;
                 y+=-Move;
+                if(x<0 || y<0 || x>1100 || y>350){
+                    x=temp_x;
+                    y=temp_y;
+                    return;
+                }
                 Frame.translate(-Move,-Move);
                 Fire(Move);
                 break;
             case 270:
                 y += -Move;
+                if(x<0 || y<0 || x>1100 || y>350){
+                    x=temp_x;
+                    y=temp_y;
+                    return;
+                }
                 Frame.translate(0,-Move);
                 Fire(Move);
 
@@ -316,19 +326,18 @@ public class Tank extends Component implements Runnable{
             case 315:
                 x+=Move;
                 y+=-Move;
+                if(x<0 || y<0 || x>1100 || y>350){
+                    x=temp_x;
+                    y=temp_y;
+                    return;
+                }
                 Frame.translate(Move,-Move);
                 Fire(Move);
 
                 break;
             default:
         }
-        if(x<0)x=0;
-        if(y<0)y=0;
-        if(x>1100) x=1100;
-        if(y>350) y=350;
-
     }
-
     @Override
     public void run() {
         repaint();
